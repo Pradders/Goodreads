@@ -1,6 +1,5 @@
 #Import packages here
 from bs4 import BeautifulSoup
-from selenium import webdriver
 import requests
 import numpy as np
 import pandas as pd
